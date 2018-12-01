@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/vanes/Documents/FreeLingUbu/FreeLing/src/utilities/installation/fusion-mw.cc
+iostream
+-
+fstream
+-
+cstdlib
+-
+map
+-
+set
+-
+boost/filesystem.hpp
+-
+iso646.h
+/mnt/c/Users/vanes/Documents/FreeLingUbu/FreeLing/src/utilities/installation/iso646.h
+

@@ -1,0 +1,1 @@
+cat acao_social.txt rede_social.txt habit_socal.txt com_prot_cj.txt paredes_ajuda.txt paredes_iguald.txt proj_inclusao.txt banco_volunt.txt gab_acomp_psic.txt club_emprego.txt loja_social.txt teleassistencia.txt prot_idoso.txt encontro.txt > allDocs.txt  

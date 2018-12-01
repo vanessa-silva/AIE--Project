@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/vanes/Documents/FreeLingUbu/FreeLing/src/main/sample_analyzer/analyzer_client.cc
+string
+-
+iostream
+-
+fstream
+-
+sstream
+-
+socket.h
+/mnt/c/Users/vanes/Documents/FreeLingUbu/FreeLing/src/main/sample_analyzer/socket.h
+
+/mnt/c/Users/vanes/Documents/FreeLingUbu/FreeLing/src/main/sample_analyzer/socket.h
+string
+-
+winsock2.h
+-
+iso646.h
+/mnt/c/Users/vanes/Documents/FreeLingUbu/FreeLing/src/main/sample_analyzer/iso646.h
+string.h
+-
+cstdlib
+-
+cstdio
+-
+unistd.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+netdb.h
+-
+

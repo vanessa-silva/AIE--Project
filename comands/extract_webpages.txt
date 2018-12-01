@@ -1,0 +1,14 @@
+w3m -dump -r -no-graph -cols 200000000  https://www.cm-paredes.pt/pages/382 > acao_social.txt
+w3m -dump -r -no-graph -cols 200000000  https://www.cm-paredes.pt/pages/461 > rede_social.txt
+w3m -dump -r -no-graph -cols 200000000  https://www.cm-paredes.pt/pages/462 > habit_socal.txt
+w3m -dump -r -no-graph -cols 200000000  https://www.cm-paredes.pt/pages/463 > com_prot_cj.txt
+w3m -dump -r -no-graph -cols 200000000  https://www.cm-paredes.pt/pages/464 > paredes_ajuda.txt
+w3m -dump -r -no-graph -cols 200000000  https://www.cm-paredes.pt/pages/466 > banco_volunt.txt
+w3m -dump -r -no-graph -cols 200000000  https://www.cm-paredes.pt/pages/467 > paredes_iguald.txt
+w3m -dump -r -no-graph -cols 200000000  https://www.cm-paredes.pt/pages/468 > proj_inclusao.txt
+w3m -dump -r -no-graph -cols 200000000  https://www.cm-paredes.pt/pages/469 > gab_acomp_psic.txt
+w3m -dump -r -no-graph -cols 200000000  https://www.cm-paredes.pt/pages/470 > club_emprego.txt
+w3m -dump -r -no-graph -cols 200000000  https://www.cm-paredes.pt/pages/471 > loja_social.txt
+w3m -dump -r -no-graph -cols 200000000  https://www.cm-paredes.pt/pages/473 > prot_idoso.txt
+w3m -dump -r -no-graph -cols 200000000  https://www.cm-paredes.pt/pages/474 > teleassistencia.txt
+w3m -dump -r -no-graph -cols 200000000  https://www.cm-paredes.pt/pages/475 > encontro.txt
